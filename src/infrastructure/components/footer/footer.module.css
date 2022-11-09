@@ -1,0 +1,10 @@
+.footer {
+    min-height: 10vh;
+    padding-block: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    background-color: brown;
+}
